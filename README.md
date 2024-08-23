@@ -34,8 +34,8 @@
 
 <p align="center">
 <a href="https://github.com/MKamilAmin">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MKamilAmin&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MKamilAmin&layout=compact&langs_count=8&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MKamilAmin&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MKamilAmin&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
