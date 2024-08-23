@@ -28,7 +28,7 @@
 ![Docker](https://img.shields.io/badge/Docker-%2320232a?style=flat&logo=docker)\
 ![Git](https://img.shields.io/badge/-Git-%2320232a?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-%2320232a?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%2320232a?style=flat&logo=vsc&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%2320232a.svg?style=flat&logo=vsc&logoColor=007ACC)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
